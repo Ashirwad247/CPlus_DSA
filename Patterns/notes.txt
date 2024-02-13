@@ -1,0 +1,4 @@
+1.Outer for loop for rows ,count the rows
+2.Inner  for loop for columns, focus on columns and connect somehow to the rows
+3.Print the * inside the inner for loop
+4.Observe symmetry
